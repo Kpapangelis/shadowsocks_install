@@ -2,6 +2,8 @@ How to install:
 
 wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
 
+%Alternatively use: https://raw.githubusercontent.com/Kpapangelis/shadowsocks_install/rm/shadowsocks-all.sh
+
 
 chmod +x shadowsocks-all.sh
 
