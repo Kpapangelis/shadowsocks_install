@@ -1,5 +1,4 @@
-![Shadowsocks](https://github.com/teddysun/shadowsocks_install/raw/master/shadowsocks.png)
-# Auto install Shadowsocks Server
+Use wayback machine to access install instructions. I will fix it when I have time.
 
 shadowsocks.sh
 ===============
