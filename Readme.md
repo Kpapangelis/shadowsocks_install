@@ -1,4 +1,4 @@
-Use wayback machine to access install instructions. I will fix it when I have time.
+Links are broken. Use wayback machine to access install instructions. I will fix it when I have time.
 
 shadowsocks.sh
 ===============
